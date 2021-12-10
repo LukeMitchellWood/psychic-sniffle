@@ -1,0 +1,16 @@
+{
+  "errors": [
+    {
+      "name": "User Name Shape",
+      "message": "User Name object must have the correct shape."
+    },
+    {
+      "name": "Email Address Shape",
+      "message": "Email Address object must have the correct shape."
+    },
+    {
+      "name": "Email Address Existence",
+      "message": "Email address must not be undefined."
+    }
+  ]
+}
