@@ -9,6 +9,4 @@ const errorHandlers = makeHandlersFromConfig({
   configValue: 'message'
 })
 
-console.log({ errorHandlers })
-
 module.exports = { errorHandlers }
