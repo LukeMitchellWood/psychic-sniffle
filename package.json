@@ -1,9 +1,24 @@
 {
-  "name": "errorfactory",
+  "name": "psychic-sniffle",
   "version": "1.0.0",
   "description": "An error object generated from a config file",
   "main": "errorFactory.js",
-  "keywords": ["errors", "factory", "generator"],
+  "keywords": [
+    "errors",
+    "factory",
+    "generator"
+  ],
   "author": "Luke Wood",
-  "license": "GNU General Public License v3.0"
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeMitchellWood/psychic-sniffle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LukeMitchellWood/psychic-sniffle/issues"
+  },
+  "homepage": "https://github.com/LukeMitchellWood/psychic-sniffle#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
