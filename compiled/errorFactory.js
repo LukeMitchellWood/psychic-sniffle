@@ -7,4 +7,5 @@ const errorHandlers = makeConfigHandlers({
     configName: 'name',
     configValue: 'message'
 });
+console.log(errorHandlers);
 module.exports = { errorHandlers };
